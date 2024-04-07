@@ -1,0 +1,9 @@
+[package]
+name = "nft_minter"
+version = "1.77.1"
+edition = "2024"
+
+[dependencies]
+anchor-lang = "1.17.0"
+anchor-spl = "1.17.0"
+solana-program = "1.10.0"

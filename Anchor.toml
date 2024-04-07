@@ -1,0 +1,7 @@
+name = "nft_minter"
+version = "0.0.1"
+description = "Solana NFT Minter Program"
+authors = ["Honey <honeyt290@gmail.com>"]
+
+[[targets]]
+name = "nft_minter"
